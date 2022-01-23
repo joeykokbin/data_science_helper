@@ -1,10 +1,9 @@
 # data_science_helper
-A full library of notebooks to get beginner users started on Python and data science, with a focus on data processing.
 
-Having learnt Python via Harvard's CS50x, I wanted to help new users bridge the gap between data science resources provided by local CSC courses and the fundamentals of Python, especially regarding the specifics of handling data. This is written based on my own Python version, which has not been updated since 2018 (due to work constraints). Users can run this with base Python without installing boutique Python packages.
+This project contains multiple Jupyter Notebooks aimed to provide a comprehensive guide for an end-to-end data science project, with a focus on the less glamorous parts (i.e. data processing, exploratory data analysis). Most if not all codes within this project are written using base python, which requires no installation of new packages.
 
-The volume of Notebooks will provide detailed codes and walkthroughs from a practical point of view (where codes can break and debugging is needed). More emphasis is given to intricacies and things not really taught by course lecturers (or taught at a superficial level), and things I find important (particularly to colleagues in my own work organisation).
+Having the privilege of attending multiple courses in computer science, Python, and data science, I find myself in a great position to write up a guide to highlight key things to note when writing in Python, especially when dealing with errors and troubleshooting. Emphasis is given to intricacies and areas not really taught by courses (or skimmed through at superficial level), as well as based on relevancy to my work.
 
-Hope this notebook helps you along your Python data science journey!
+Nevertheless, this framework will be useful to gain a working knowledge in data science, which will be essential in insights generation and data-backed decision making.
 
 Joey Koh
